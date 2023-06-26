@@ -1,0 +1,35 @@
+# Blender MTL File: 'moonbug.blend'
+# Material Count: 3
+
+newmtl Body1
+Ns 66.916625
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.263910 0.263910 0.263910
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\moonbug_Body1_RedWhite.png
+
+newmtl Eyes1
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.349276 0.349276 0.349276
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\moonbugEyes2.png
+map_Ke textures\moonbugEyes2.png
+
+newmtl bulbs
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 6.053735 6.053735 6.053735
+Ni 1.450000
+d 1.000000
+illum 2
