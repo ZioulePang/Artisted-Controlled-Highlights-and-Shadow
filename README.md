@@ -5,11 +5,11 @@
 
 Comparison as follows：
 
+高光部分：
 <img width="173" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/12c96794-2d1a-49a2-a8aa-4df36181e26f">
 
-高光部分：
 ![image](https://github.com/ZioulePang/Stylized-Highlight/assets/93811399/7f0ab859-ed77-4c6f-b474-b374ddb580e4)
-<img width="173" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/23d8676e-4e6f-4537-aad8-8be72d335acb">
+
 
 <img width="222" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/5a6c83cc-ad24-4c13-9fe4-0b0aaeafea89">
 <img width="223" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/e770f422-2363-4d2b-bc17-56e76598d97c">
