@@ -8,7 +8,6 @@ Comparison as follows：
 高光部分：
 <img width="173" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/12c96794-2d1a-49a2-a8aa-4df36181e26f">
 
-![image](https://github.com/ZioulePang/Stylized-Highlight/assets/93811399/7f0ab859-ed77-4c6f-b474-b374ddb580e4)
 
 
 <img width="222" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/5a6c83cc-ad24-4c13-9fe4-0b0aaeafea89">
