@@ -4,7 +4,7 @@ out vec4 FragColor;
 in vec2 TexCoords;
 
 uniform sampler2D screenTexture;
-
+uniform sampler2D screenTexture_02;
 const float offset = 1.0 / 1000.0;  
 
 vec2 offsets[9] = vec2[](
@@ -52,9 +52,16 @@ void main()
     float edge = calEdge();
     vec4 edgeColor = vec4(0,0,0,1);
     vec4 backgroundColor = vec4(0.1f, 0.1f, 0.1f, 1.0f);
+
     vec4 withEdgeColor = mix(edgeColor, texture(screenTexture, TexCoords), edge);
     vec4 onlyEdgeColor = mix(edgeColor, backgroundColor, edge);
-    vec4 result = mix(withEdgeColor, onlyEdgeColor,0.8f);
+
+    //vec4 withEdgeColor_character = mix(edgeColor, texture(characterTexture, TexCoords), edge);
+    //vec4 onlyEdgeColor_character = mix(edgeColor, backgroundColor, edge);
+
+
+    vec4 result = mix(withEdgeColor, onlyEdgeColor,0.89f);
+
     FragColor = result + texture(screenTexture, TexCoords);
 
 }
