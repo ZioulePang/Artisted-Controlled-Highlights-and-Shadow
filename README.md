@@ -1,4 +1,4 @@
-# Stylized-Highlight
+# Artists controlled Shading
 该项目是对“Stylized_highlights_for_cartoon_rendering_and_animation”论文的复现
 
 项目主要内容为渲染卡通风格的高光，并将其细分为4个部分，分别为Scale，Rotation，Translation，Squaring。
