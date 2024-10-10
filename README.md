@@ -1,11 +1,11 @@
-# Artists controlled Shading
-该项目是对“Stylized_highlights_for_cartoon_rendering_and_animation”论文的复现
+This project is a reproduction of the papers "Stylized_highlights_for_cartoun_ rendering_ and_animation" and “Shading Rig: Dynamic Art-directable Stylised Shading for 3D Characters”
 
-项目主要内容为渲染卡通风格的高光，并将其细分为4个部分，分别为Scale，Rotation，Translation，Squaring。
+# Artists controlled Shading
+The main content of highlights part is to render cartoon style highlights and divide it into four parts, namelyScale，Rotation，Translation，Squaring。
 
 Comparison as follows：
 
-高光部分：
+Highlights：
 <img width="173" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/12c96794-2d1a-49a2-a8aa-4df36181e26f">
 <img width="173" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/9a0d5ac4-8fad-43eb-8818-7bd0ed421e09">
 
@@ -16,8 +16,8 @@ Comparison as follows：
 <img width="220" alt="image" src="https://github.com/ZioulePang/Artisted-Controlled-Highlights-and-Shadow/assets/93811399/94d8cf03-a7c8-4569-8d73-1edcc1993985">
 
 #Artists Controlled Shadow
-这部分是对论文Shading Rig: Dynamic Art-directable Stylised Shading for 3D Characters 的复现
-与论文中不同的是项目中在是在空间下修改物体的阴影。
+This section is a reproduction of the paper Shading rig: Dynamic Art directed Stylised Shading for 3D Characters
+Unlike in the paper, the project involves modifying the shadows of objects in space.
 
 Comparison as follows：
 
