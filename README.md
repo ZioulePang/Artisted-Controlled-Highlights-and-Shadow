@@ -1,6 +1,7 @@
-This project is a reproduction of the papers "Stylized_highlights_for_cartoun_ rendering_ and_animation" and “Shading Rig: Dynamic Art-directable Stylised Shading for 3D Characters”
 
 # Artists controlled Shading
+
+This project is a reproduction of the papers "Stylized_highlights_for_cartoun_ rendering_ and_animation" and “Shading Rig: Dynamic Art-directable Stylised Shading for 3D Characters”
 The main content of highlights part is to render cartoon style highlights and divide it into four parts, namelyScale，Rotation，Translation，Squaring。
 
 Comparison as follows：
