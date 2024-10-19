@@ -18,7 +18,7 @@ Highlights：
 
 #Artists Controlled Shadow
 This section is a reproduction of the paper Shading rig: Dynamic Art directed Stylised Shading for 3D Characters
-Unlike in the paper, the project involves modifying the shadows of objects in space.
+Unlike in the paper, the project involves modifying the shadows of objects in world space.
 
 Comparison as follows：
 
